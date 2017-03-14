@@ -1,0 +1,7 @@
+Installation on windows:
+https://www.elastic.co/guide/en/elasticsearch/reference/current/windows.html
+
+---------------------
+
+Github Documentation:
+https://github.com/elastic/elasticsearch-net
